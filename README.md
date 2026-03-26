@@ -1,13 +1,8 @@
 # Hi, I'm Artem
 
-Fullstack Engineer with a focus on frontend architecture.
+Fullstack Engineer with strong frontend expertise.
 
-## What I do
-
-- Build fullstack web applications using Vue, React and Node.js
-- Design scalable frontend architectures and microfrontend systems
-- Develop backend services with NestJS and Express
-- Work with data flows, APIs and production-ready infrastructure
+I build web applications using Vue, React and Node.js, and work across both frontend and backend parts of the system.
 
 ## Tech Stack
 
@@ -26,49 +21,68 @@ Database and Infra
 - Redis
 - Docker
 
-## Key Projects
+## Selected Projects
 
-File Cloud Lab  
-Production-like file storage system
+Public projects demonstrating my approach to fullstack development, frontend architecture and working with data and APIs.
 
-- Object storage using MinIO
-- Metadata database with PostgreSQL
-- Caching with Redis
+Commercial experience includes production systems developed under NDA.
+
+### File Cloud Lab  
+Fullstack file storage system
+
+A fullstack application for handling file uploads, storage and metadata management, designed with separation between storage, database and caching layers.
+
+- File upload and storage using MinIO
+- Metadata management with PostgreSQL
+- Caching layer with Redis
 - Backend built with NestJS
-- Designed as a scalable system
+- Separation of storage and application logic
 
-https://github.com/Artem-Makarchenko-Dev/file-cloud-lab
+Focus on data flow, backend structure and integration between services
 
-Shop Kit  
+### Architecture overview
+
+![Architecture](./assets/file-cloud-architecture-dark.png)
+
+System showing synchronous request flow and asynchronous background processing using queue and workers.
+
+[Open project](https://github.com/Artem-Makarchenko-Dev/file-cloud-lab)
+
+---
+
+### Shop Kit  
 Fullstack e-commerce platform
 
-- Authentication with JWT and refresh rotation
+- Authentication with JWT and refresh tokens
 - Role-based access control
-- API and frontend applications
-- Modular architecture
+- Backend API and frontend application
+- Modular project structure
 
 API  
-https://github.com/Artem-Makarchenko-Dev/shop-kit-api
+[Open project](https://github.com/Artem-Makarchenko-Dev/shop-kit-api)
 
 Web  
-https://github.com/Artem-Makarchenko-Dev/shop-kit-web
+[Open project](https://github.com/Artem-Makarchenko-Dev/shop-kit-web)
 
-Microfrontends Lab  
-Frontend architecture using Module Federation
+---
+
+### Microfrontends Lab  
+Frontend architecture experiment using Module Federation
 
 - Independent applications
-- Shared UI and logic
-- Scalable team structure
-- Focus on real-world frontend architecture
+- Shared components
+- Focus on modular frontend structure
 
-https://github.com/Artem-Makarchenko-Dev/microfrontends-vue-lab
+[Open project](https://github.com/Artem-Makarchenko-Dev/microfrontends-vue-lab)
+
+---
 
 ## Focus
 
-- Frontend architecture
-- Microfrontends
-- System design
+- Frontend development
 - Fullstack applications
+- Modular architecture
+- Working with APIs and data
 
 ## Links
 
