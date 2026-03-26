@@ -42,7 +42,7 @@ Focus on data flow, backend structure and integration between services
 
 ### Architecture overview
 
-![Architecture](./assets/file-cloud-architecture-dark.webp)
+![Architecture](./file-cloud-architecture-dark.webp)
 
 System showing synchronous request flow and asynchronous background processing using queue and workers.
 
