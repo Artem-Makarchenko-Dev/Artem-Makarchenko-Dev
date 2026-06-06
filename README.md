@@ -1,25 +1,41 @@
 # Hi, I'm Artem
 
-Fullstack Engineer with strong frontend expertise.
+Full-Stack Developer with 6+ years of experience building complex web applications in production.
 
-I build web applications using Vue, React and Node.js, and work across both frontend and backend parts of the system.
+I work across both frontend and backend using Vue, Nuxt, React, Next.js, Node.js, and NestJS.
+Experienced in system architecture, REST APIs, PostgreSQL, and event-driven systems.
+Regularly work with AWS (S3, Lambda, EC2, RDS) and actively use AI tools like Claude Code and Cursor,
+including agentic workflows, MCP integration, and AI-assisted development to speed up delivery.
 
 ## Tech Stack
 
-Frontend
+**Frontend**
 - Vue / Nuxt
 - React / Next
 
-Backend
+**Backend**
 - Node.js
 - NestJS / Express
-- REST API design
+- REST API / GraphQL
+- JWT / RBAC
+- RabbitMQ
+- WebSockets
 
-Database and Infra
+**Database**
 - PostgreSQL
+- MongoDB
 - Prisma
 - Redis
-- Docker
+
+**Cloud**
+- AWS S3 / Lambda / SQS
+- AWS EC2 / RDS / ElastiCache
+- AWS CloudFront / IAM / VPC
+- Docker / Docker Compose
+
+**AI Tools**
+- Claude Code / Cursor / GitHub Copilot
+- Agentic Workflows / MCP Integration
 
 ## Selected Projects
 
